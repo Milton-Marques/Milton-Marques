@@ -20,7 +20,7 @@
 ### Skills:
 
 <p align="left" margin-left="10px">
-- 🧩 Minhas Stack: HTML, CSS, JavaScript <br>
+- 🧩 Minhas Stack: HTML, CSS, JavaScript, Java <br>
 - 🛢 Conhecimento em Banco de Dados: <strong>MySQL</strong>
 </p>
 
